@@ -22,4 +22,3 @@ COPY . /src
 
 WORKDIR src
 
-ENTRYPOINT ["/src/entrypoint.sh"]
