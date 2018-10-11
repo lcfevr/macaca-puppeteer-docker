@@ -1,4 +1,4 @@
-FROM registry.docker-cn.com/node
+FROM node:8
 
 MAINTAINER xdf <xudafeng@126.com>
 
